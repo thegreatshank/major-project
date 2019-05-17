@@ -1,0 +1,7 @@
+#Thu Apr 18 18:50:30 IST 2019
+base.0=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac0d6f2bf565817603df83583ac38f9370c56f8a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b1958ae0847a36c1eadc7ac42aed9a1116265c3\\classes.dex
+base.1=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b1958ae0847a36c1eadc7ac42aed9a1116265c3
+file.0=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac0d6f2bf565817603df83583ac38f9370c56f8a\\classes.dex

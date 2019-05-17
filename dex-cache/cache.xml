@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\masad\.android\build-cache\47db5e4c56bbee1ee82bff25addc4027d2ff5627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="745ef452dfbdad09e34d11a379b386582d83dce1">
+        <dex dex="D:\PlantDoctor-master\gradleBuild\intermediates\pre-dexed\debug\classes_89d0adbf076e67dd5be419ae3c9b0caa2ccb5c09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\masad\.android\build-cache\47db5e4c56bbee1ee82bff25addc4027d2ff5627\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="745ef452dfbdad09e34d11a379b386582d83dce1">
+        <dex dex="D:\PlantDoctor-master\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_89d0adbf076e67dd5be419ae3c9b0caa2ccb5c09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PlantDoctor-master\gradleBuild\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\PlantDoctor-master\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8b1958ae0847a36c1eadc7ac42aed9a1116265c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PlantDoctor-master\gradleBuild\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52070fee6eb111b7b189921db9960fe65fe2188f">
+        <dex dex="D:\PlantDoctor-master\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ac0d6f2bf565817603df83583ac38f9370c56f8a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_classifier.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\activity_classifier.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\list_text_item.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\list_text_item.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_speech.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\activity_speech.xml"
+    },
+    {
+        "merged": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "D:\\PlantDoctor-master\\res\\layout\\camera_connection_fragment_stylize.xml"
+    }
+]

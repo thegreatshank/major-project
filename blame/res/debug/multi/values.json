@@ -1,0 +1,335 @@
+[
+    {
+        "outputFile": "D:\\PlantDoctor-master\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 69,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 42,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 43,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 41,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 61,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 61,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 61,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 58,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 60,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 41,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 41,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 51,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 58,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 54,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 82,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 49,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 83,
+                    "endOffset": 1314
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1319,
+                    "endColumn": 50,
+                    "endOffset": 1365
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1370,
+                    "endColumn": 94,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 59,
+                    "endOffset": 1520
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1525,
+                    "endColumn": 52,
+                    "endOffset": 1573
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1578,
+                    "endColumn": 26,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1796
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1801,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2074
+                },
+                "from": {
+                    "file": "D:\\PlantDoctor-master\\res\\values\\template-styles.xml"
+                }
+            }
+        ]
+    }
+]
