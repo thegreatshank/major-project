@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:4:1-36:12
+	package
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:6:5-34
+	xmlns:tools
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:4:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:12:22-77
+uses-sdk
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:14:5-16:41
+	android:targetSdkVersion
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:16:9-38
+	android:minSdkVersion
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:15:9-35
+application
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:18:5-34:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\masad\.android\build-cache\47db5e4c56bbee1ee82bff25addc4027d2ff5627\output\AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:20:9-41
+	android:debuggable
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:19:9-34
+	tools:ignore
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:23:9-42
+	android:allowBackup
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:18:18-44
+	android:icon
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:22:9-45
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:25:9-32:20
+	android:screenOrientation
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:26:19-55
+	android:label
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:27:19-71
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:25:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PlantDoctor-master\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\PlantDoctor-master\AndroidManifest.xml:30:27-74
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\PlantDoctor-master\AndroidManifest.xml:4:1-36:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
