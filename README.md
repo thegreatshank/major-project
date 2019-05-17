@@ -1,5 +1,5 @@
 ### Description
-We build a plant disease diagnosis system on Android, by implementing a deep convolutional neural network with Tensorflow to detect disease from various plant leave images. 
+ built a plant disease diagnosis system on Android, by implementing a deep convolutional neural network with Tensorflow to detect disease from various plant leave images. 
 
 Generally, due to the size limitation of the dataset, we adopt the transefer learning in this system. Specifically, we retrain the MobileNets [[1]](https://arxiv.org/pdf/1704.04861.pdf), which is first trained on ImageNet dataset, on the plant disease datasets. Finally, we port the trained model to Android.
 
