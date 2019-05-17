@@ -1,0 +1,4 @@
+#Mon Mar 18 12:09:15 IST 2019
+base.0=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_89d0adbf076e67dd5be419ae3c9b0caa2ccb5c09
+renamed.0=classes.dex
+file.0=D\:\\PlantDoctor-master\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_89d0adbf076e67dd5be419ae3c9b0caa2ccb5c09\\classes.dex
