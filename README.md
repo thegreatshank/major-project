@@ -19,3 +19,5 @@ The dataset is available at https://www.crowdai.org/challenges/plantvillage-dise
 
 [2] Mohanty, Sharada P., David P. Hughes, and Marcel Salathé. "Using deep learning for image-based plant disease detection." Frontiers in plant science 7 (2016).
 
+### RESULTS
+major screenshots
